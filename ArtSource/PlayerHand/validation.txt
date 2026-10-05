@@ -1,0 +1,1 @@
+PASS: 17 bones; Wrist/Palm + 5 fingers x 3 segments. Parent chains checked. Original Unity assets untouched. No mesh or animation yet.
